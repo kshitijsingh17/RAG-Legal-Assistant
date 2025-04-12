@@ -1,10 +1,4 @@
-# Contract Advisor RAG: Towards Building A High-Precision Legal Expert LLM APP
-
-This repo contains the code and data for the 10 Academy Cohort A weekly challenge: Week 11. The goal of this challenge is to build, evaluate and improve a RAG system for Contract Q&A (chatting with a contract and asking questions about the contract).
-
-## Business Objective
-
-Developing the next-generation contract AI by leveraging Hybrid LLM technology (edge, private cloud and LLM services), to build the first, fully autonomous, artificial contract lawyer. The first step in our journey is a powerful contract assistant, with the ultimate goal of developing a fully autonomous contract bot, capable of drafting, reviewing, and negotiating contracts, independently, end-to-end, without human assistance.
+# Legal Advisor RAG: High-Precision Legal Expert LLM APP
 
 ## RAG System Overview
 
@@ -40,7 +34,7 @@ The project requires the following libraries and frameworks:
 
 To run the project, follow these steps:
 
-- Clone the repo: git clone https://github.com/abdimussa87/legal_contract_advisor_rag.git
+- Clone the repo: git clone https://github.com/kshitijsingh17/RAG-Legal-Assistant
 - Install the dependencies: pip install -r requirements.txt
 - Run the main script: streamlit run app/main.py
 - Access the web interface: http://localhost:8501
