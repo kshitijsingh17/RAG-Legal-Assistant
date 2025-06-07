@@ -1,4 +1,4 @@
-# Legal Advisor RAG: High-Precision Legal Expert LLM APP
+# Legal Advisor RAG APP:
 
 ## RAG System Overview
 
